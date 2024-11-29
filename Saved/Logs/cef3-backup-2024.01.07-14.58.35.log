@@ -1,0 +1,12 @@
+[0107/175800.070:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0107/175800.070:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0107/175800.146:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0107/175800.154:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0107/175814.899:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/175815.898:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/175817.326:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/175817.797:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/175823.572:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/175826.244:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/175826.627:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/175835.246:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

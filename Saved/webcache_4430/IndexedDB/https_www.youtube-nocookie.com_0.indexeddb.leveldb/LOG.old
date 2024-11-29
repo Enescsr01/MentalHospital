@@ -1,0 +1,6 @@
+2023/12/18-12:29:30.287 1a04 Creating DB C:/Outputs/UnrealEngine/MentalHospital/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/12/18-12:29:30.305 1a04 Reusing MANIFEST C:/Outputs/UnrealEngine/MentalHospital/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/18-16:15:21.188 7f48 Level-0 table #5: started
+2023/12/18-16:15:21.201 7f48 Level-0 table #5: 1211 bytes OK
+2023/12/18-16:15:21.207 7f48 Delete type=0 #3
+2023/12/18-16:15:21.207 7f48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

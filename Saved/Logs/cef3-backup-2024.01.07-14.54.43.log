@@ -1,0 +1,2 @@
+[0107/175242.912:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Belirtilen durumda kullaným için anahtar geçerli deðil. (0x8009000B)
+[0107/175443.174:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
